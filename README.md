@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohitKumarHans
+- 👋 Hi, I’m @MohitKumar
 - 👀 I’m interested in Programming and developing 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
